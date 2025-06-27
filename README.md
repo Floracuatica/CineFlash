@@ -23,17 +23,6 @@
 - Validación de campos obligatorios.
 - Modal de confirmación que muestra los detalles ingresados.
 
-## 📁 Estructura del Proyecto
-
-```
-CineFlash_grupoX/
-├── index.html              # Página principal con la galería de películas
-├── css/
-│   └── styles.css          # Estilos personalizados para el sitio
-├── js/
-│   └── script.js           # Funciones jQuery y lógica de interacción
-└── img/                    # Imágenes de películas (dune.jpg, barbie.jpg, etc.)
-```
 
 ## 📸 Vista Previa
 
