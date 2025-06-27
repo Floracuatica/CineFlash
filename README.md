@@ -26,4 +26,6 @@
 
 ## 📸 Vista Previa
 
+cine-flash.vercel.app
+
 _Nota: El sistema de pago es solo una simulación y no realiza transacciones reales._
